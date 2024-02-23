@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+  position: relative;
+  overflow: hidden;
+}
+
+.weather-app {
+  min-height: 100vh;
+  background-image: url(./background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: relative;
+  padding: 20px;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 20px;
+  background: transparent;
+  color: azure;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 80px;
+  left: 5px;
+}
+
+.brand {
+  margin-bottom: 450px;
+  margin-left: -15px;
+  color: #f0f8ff;
+}
+
+.panel {
+  display: flex;
+  height: 100vh;
+  width: 35vw;
+  flex-direction: column;
+  padding: 15px;
+  opacity: 0.8;
+  position: relative;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  top: -20px;
+  right: -20px;
+}
+
+.search::placeholder {
+  font-size: large;
+  color:#1A2421;
+}
+.search {
+  display: grid;
+  font-size: large;
+  height: 20px;
+  width: 85%;
+  color: black;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.submit {
+  border: none;
+  padding: 10px 12px;
+  margin-top: -5rem;
+  margin-left: 440px;
+  background: transparent;
+}
+
+.icon2 {
+  width: 35px;
+  height: 32px;
+  margin-bottom: 20px;
+}
+
+.cities {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.city {
+  cursor: pointer;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.city:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.details {
+  padding: 0;
+  list-style-type: none;
+  margin-top: -10px;
+}
+
+.details h4 {
+  color:  #080806;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.details li {
+  color:#2C3539;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.weather img.icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.temp {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.city-time {
+  color: #0C0404;
+  margin-top: 10px;
+}
+
+.city-time small {
+  font-size: smaller;
+  color:#3B444B;
+}

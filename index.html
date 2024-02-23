@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Application</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="weather-app">
+      <div class="panel">
+        <form action="" id="location">
+          <input type="text" class="search" placeholder="Enter the location" />
+          <button type="submit" class="submit">
+            <img src="./search.png" alt="Search" class="icon2" />
+          </button>
+        </form>
+        <ul class="cities">
+          <li class="city" id="Kanpur">Kanpur</li>
+          <li class="city" id="Lucknow">Lucknow</li>
+          <li class="city" id="Patna">Patna</li>
+          <li class="city" id="New Delhi">New Delhi</li>
+          <li class="city" id="Mumbai">Mumbai</li>
+          <li class="city" id="Kolkata">Kolkata</li>
+          <li class="city" id="Bengaluru">Bengaluru</li>
+          <li class="city" id="Chennai">Chennai</li>
+          <li class="city" id="Hyderabad">Hyderabad</li>
+        </ul>
+        <ul class="details">
+          <h4>Weather Information</h4>
+          <li>
+            <span>City</span>
+            <span class="name">-</span>
+          </li>
+          <li>
+            <span>Temperature</span>
+            <span class="temp">-</span>
+          </li>
+          <li>
+            <span>Condition</span>
+            <span class="condition">-</span>
+          </li>
+          <li>
+            <span>Humidity</span>
+            <span class="humidity">-</span>
+          </li>
+          <li>
+            <span>Wind Speed</span>
+            <span class="wind">-</span>
+          </li>
+          <li>
+            <span>Date</span>
+            <span class="date">-</span>
+          </li>
+        </ul>
+      </div>
+      <div class="container">
+        <h3 class="brand">LiveWeather</h3>
+        <div>
+          <h1 class="default-temp" id="def-temp">24&#176;</h1>
+          <div class="city-time">
+            <h1 class="name">New Delhi</h1>
+            <small>
+              <span class="time">-</span>
+              <span class="date">-</span>
+            </small>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
