@@ -2,7 +2,7 @@
 <br>
 <b>Overview:</b>
 <br>
-LiveWeather App is a web application that provides users with live weather updates for locations worldwide. Whether you're planning a trip, checking the forecast for an event, or simply curious about the weather in different cities, LiveWeather has got you covered.
+LiveWeather App is a web application that provides users with live weather updates for locations worldwide. Whether you're planning a trip, checking the forecast for an event, or simply curious about the weather in different cities, LiveWeather has got you covered.<br>
 <br>
 <b>Features:</b>
 <br>
