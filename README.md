@@ -41,4 +41,4 @@ Weather Data: Integrated live weather data from WeatherAPI.com.<br>
 <br>
 
 ## Feedback and Contributions
-Feedback, Bug Reports, and Contributions are welcomed! Feel free to submit issues or Pull Requests.<br>
+Feedback, Bug Reports, and Contributions are welcomed! Feel free to submit issues or Pull Requests.
