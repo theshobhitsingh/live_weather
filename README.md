@@ -36,4 +36,4 @@ Fonts: Employed fonts from Google Fonts to enhance readability and aesthetics.<b
 Weather Data: Integrated live weather data from WeatherAPI.com.<br>
 <br>
 <b>Feedback and Contributions:</b><br>
-Feedback, bug reports, and contributions are welcome! Feel free to submit issues or pull requests.<br>
+Feedback, bug reports, and contributions are welcomed! Feel free to submit issues or pull requests.<br>
