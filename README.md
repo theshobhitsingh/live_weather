@@ -3,7 +3,7 @@
 
 LiveWeather App is a web application that provides users with live weather updates for locations worldwide. Whether you're planning a trip, checking the forecast for an event, or simply curious about the weather in different cities, LiveWeather has got you covered.
 
-## Features:
+## Features
 
 - **Global Coverage:** Access real-time weather updates for cities across the globe.
 - **Live Updates:** Get instant weather information for the selected city.
@@ -20,24 +20,24 @@ LiveWeather App is a web application that provides users with live weather updat
 - **WeatherAPI:** External API providing live weather data based on location.
 <be>
 
-<b>Installation:</b><br>
+## Installation
 1. Clone the repository: git clone https://github.com/your-username/liveweather-app.git<br>
 2. Navigate to the project directory: cd liveweather-app<br>
 3. Open the index.html file in your preferred web browser.<br>
 <be>
 
-<b>Usage:</b><br>
+## Usage
 1. Launch the LiveWeather App in your web browser.<br>
 2. Explore the interface to view a list of pre-defined cities or use the search bar to find a specific city.<br>
 3. Click on a city to instantly view its current weather conditions, including temperature, weather condition, humidity, wind speed, and current date/time.<br>
 4. For ongoing updates, the default city name, temperature, and time will automatically refresh based on the selected or searched city.<br>
 <be>
 
-<b>Credits:</b><br>
+## Credits
 Icons: Utilized icons from Font Awesome for visual enhancements.<br>
 Fonts: Employed fonts from Google Fonts to enhance readability and aesthetics.<br>
 Weather Data: Integrated live weather data from WeatherAPI.com.<br>
-<be>
+<br>
 
-<b>Feedback and Contributions:</b><br>
+## Feedback and Contributions
 Feedback, bug reports, and contributions are welcomed! Feel free to submit issues or pull requests.<br>
