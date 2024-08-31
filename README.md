@@ -1,4 +1,4 @@
-#LiveWeather App<
+# LiveWeather App
 <br><br>
 <b>Overview:</b>
 <br>
