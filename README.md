@@ -19,7 +19,7 @@ LiveWeather App is a web application that provides users with live weather updat
 - **JavaScript:** A programming language for implementing dynamic and interactive features.
 - **Axios:** JavaScript library for making HTTP requests to retrieve weather data from an external API.
 - **WeatherAPI:** External API providing live weather data based on location.
-<be>
+<br>
 
 ## Installation
 1. Clone the repository: git clone https://github.com/your-username/liveweather-app.git<br>
