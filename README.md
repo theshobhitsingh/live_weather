@@ -25,14 +25,14 @@ LiveWeather App is a web application that provides users with live weather updat
 1. Clone the repository: git clone https://github.com/your-username/liveweather-app.git<br>
 2. Navigate to the project directory: cd liveweather-app<br>
 3. Open the index.html file in your preferred web browser.<br>
-<be>
+<br>
 
 ## Usage
 1. Launch the LiveWeather App in your web browser.<br>
-2. Explore the interface to view a list of pre-defined cities or use the search bar to find a specific city.<br>
+2. Explore the interface to view a list of pre-defined cities or use the search bar to find a specific city or town.<br>
 3. Click on a city to instantly view its current weather conditions, including temperature, weather condition, humidity, wind speed, and current date/time.<br>
 4. For ongoing updates, the default city name, temperature, and time will automatically refresh based on the selected or searched city.<br>
-<be>
+<br>
 
 ## Credits
 Icons: Utilized icons from Font Awesome for visual enhancements.<br>
